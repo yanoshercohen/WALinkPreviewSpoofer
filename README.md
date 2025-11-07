@@ -4,7 +4,7 @@ Script that attempts to spoof the title and description of link previews in What
 
 > [!NOTE] 
 > This script modifies the link preview's title and description *before* the message is sent. However, the server or receiving clients might re-fetch the preview based on the URL itself, potentially overriding these client-side changes. Therefore, the spoofed preview might not appear to the recipient. The original link destination remains unchanged.
-> 
+ 
 > [!CAUTION] 
 > This JavaScript code is for **research purposes** only and is not intended to be used as a basis for any commercial or non-research purposes.  
 > The use of this code is at the user's own risk, and the author(s) assume no responsibility for any misuse or unintended consequences.  
