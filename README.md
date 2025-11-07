@@ -1,5 +1,6 @@
 # WALinkPreviewSpoofer
 Script that attempts to spoof the title and description of link previews in WhatsApp Web messages.  
+ 
 <img width="216" height="119" alt="image" src="https://github.com/user-attachments/assets/ba28743e-ce73-4b76-8976-538b124bb038" />  
 
 > [!NOTE] 
