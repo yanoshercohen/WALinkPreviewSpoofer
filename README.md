@@ -4,7 +4,7 @@ Script that attempts to spoof the title and description of link previews in What
 <img width="216" height="119" alt="image" src="https://github.com/user-attachments/assets/ba28743e-ce73-4b76-8976-538b124bb038" />  
 
 > [!NOTE] 
-> This script modifies the link preview's title and description *before* the message is sent. However, the server or receiving clients might re-fetch the preview based on the URL itself, potentially overriding these client-side changes. Therefore, the spoofed preview might not appear to the recipient. The original link destination remains unchanged.
+> This script only changes the title and description shown in a WhatsApp Web link preview; the actual link target remains unchanged.
  
 > [!CAUTION] 
 > This JavaScript code is for **research purposes** only and is not intended to be used as a basis for any commercial or non-research purposes.  
